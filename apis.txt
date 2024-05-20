@@ -1,0 +1,2 @@
+1 - https://rapidapi.com/api-sports/api/api-football - só futebol + subscribers 28k
+2 - https://rapidapi.com/tipsters/api/sportscore1 - mais esportes - 6k
